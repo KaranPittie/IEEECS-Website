@@ -482,8 +482,8 @@ $(document).ready(function() {
     </div>
     <div class="col-sm-2">
       <div class="thumbnail">
-        <img src="http://res.cloudinary.com/ieeecsvit/members/12/VivekShah.jpg" alt="Vivek Shah" width="250" height="250">
-        <p><strong>Vivek Shah</strong></p>
+        <img src="http://res.cloudinary.com/ieeecsvit/members/12/ArpitSabhrewal.jpg" alt="Arpit Sabhrewal" width="250" height="250">
+        <p><strong>Arpit Sabhrewal</strong></p>
         <p>Technical Head</p>
       </div>
     </div>
@@ -555,8 +555,8 @@ $(document).ready(function() {
     </div>
     <div class="col-sm-2">
       <div class="thumbnail">
-        <img src="http://res.cloudinary.com/ieeecsvit/members/11/ArpitSabhrewal.jpg" alt="Arpit Sabharwal" width="250" height="250">
-        <p><strong>Arpit Sabharwal</strong></p>
+        <img src="http://res.cloudinary.com/ieeecsvit/members/11/VivekShah.jpg" alt="Vivek Shah" width="250" height="250">
+        <p><strong>Vivek Shah</strong></p>
         <p>Technical Head</p>
       </div>
     </div>
@@ -612,6 +612,7 @@ $(document).ready(function() {
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
+  </div>
   </div>
   </div>
 <!-- Container (Contact Section) -->
