@@ -14,7 +14,6 @@
 
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="styles/normalize.css">
 <link rel="stylesheet" href="styles/main.css">
 <link rel="stylesheet" type="text/css" href="styles/style.css">
