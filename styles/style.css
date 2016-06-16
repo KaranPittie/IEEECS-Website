@@ -54,9 +54,11 @@ h4 {
     margin-bottom: 10px;
   }
 .carousel-inner > .item > img{
-  height: 600px;
-  width: 75%;
-  margin: auto;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  /*margin: auto;*/
 }
 .carousel-control.right, .carousel-control.left {
     background-image: none;

@@ -1,0 +1,28 @@
+{
+  "name": "ieeecs",
+  "version": "1.0.0",
+  "description": "This can be used as the Beta version of the chapters website.",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-htmlmin": "^1.4.0",
+    "grunt-contrib-imagemin": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaranPittie/IEEECS-Website.git"
+  },
+  "author": "Karan Pittie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaranPittie/IEEECS-Website/issues"
+  },
+  "homepage": "https://github.com/KaranPittie/IEEECS-Website#readme"
+}
