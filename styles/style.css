@@ -256,3 +256,15 @@ visibility: hidden;
       -webkit-transition: all 0.3s 1s ease-out;
               transition: all 0.3s 1s ease-out;
 }
+
+@media(max-width: 420px) and (min-width: 321px) {
+  #ourTeam > .carousel-inner > .item > .row > div:nth-child(3n+4){
+    clear: left;
+  }
+}
+
+@media(max-width: 320px) {
+    #ourTeam > .carousel-inner > .item > .row > div:nth-child(2n+3){
+    clear: left;
+  }
+}
